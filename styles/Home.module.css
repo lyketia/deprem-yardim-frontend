@@ -3,6 +3,13 @@
   color: crimson;
 }
 
+.triggerApiButton {
+  position: fixed;
+  top: 10px;
+  left: 0px;
+  z-index: 9999;
+}
+
 .helpButtonContainer {
   position: absolute;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
